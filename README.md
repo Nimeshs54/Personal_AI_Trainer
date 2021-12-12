@@ -12,6 +12,5 @@ This image shows the 33 distinct full-body landmarks:
 ## Demo:
 Using three landmarks, (p1=23=left_hip,  p2=25=left_knee,  p3=27=left_ankle)
 
-
-https://user-images.githubusercontent.com/37257980/145652018-e90d8d67-5ae9-4f5d-a68c-9d45d1da297b.mp4
+https://user-images.githubusercontent.com/37257980/145726925-587860e5-49e2-40ab-a258-228bbfead160.mp4
 
