@@ -14,3 +14,7 @@ Using three landmarks, (p1=23=left_hip,  p2=25=left_knee,  p3=27=left_ankle)
 
 https://user-images.githubusercontent.com/37257980/145726925-587860e5-49e2-40ab-a258-228bbfead160.mp4
 
+
+
+https://user-images.githubusercontent.com/37257980/146348179-a1206ecc-8a84-4a19-9430-31cdefbee79a.mp4
+
