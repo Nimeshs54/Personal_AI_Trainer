@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/37257980/146362573-4487d29a-f6a9-4ec0-
 ## Output:
 
 
-Using three landmarks, (p1=23=left_hip,  p2=25=left_knee,  p3=27=left_ankle)
+Need these three landmarks, (p1=23=left_hip,  p2=25=left_knee,  p3=27=left_ankle), to calculate squats count and accuracy.
 
 https://user-images.githubusercontent.com/37257980/145726925-587860e5-49e2-40ab-a258-228bbfead160.mp4
 
